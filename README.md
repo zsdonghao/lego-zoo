@@ -4,14 +4,26 @@
 </div>
 </a>
 
+# What is it?
 
-Hi, this is my LEGO MOC collection. I will share some LEGO DIY here.
+Hi, this is my LEGO MOC collection. I will share the selective LEGO brick lists here. 
 
-To get the building guides, you need to download the LDD (lego digital designer).
+# How to use?
 
-- [WINDOWS](https://lc-www-live-s.legocdn.com/downloads/ldd2.0/installer/setupLDD-PC-4_3_10.exe)
-- [MAC](https://lc-www-live-s.legocdn.com/downloads/ldd2.0/installer/setupLDD-MAC-4_3_10.zip)
 
-After that, click `Tool box` --> `generate building guide(ctrl+M)`, and then `View` --> `building guide mode(F7)`.
+To get the building guides and brick lists, you need to download the LDD (lego digital designer).
 
-Enjoy!
+- [Windows](https://lc-www-live-s.legocdn.com/downloads/ldd2.0/installer/setupLDD-PC-4_3_10.exe)
+- [MacOS](https://lc-www-live-s.legocdn.com/downloads/ldd2.0/installer/setupLDD-MAC-4_3_10.zip)
+
+After that, open LXF file in LDD, click `Tool box` --> `generate building guide(ctrl+M)`, and then `View` --> `building guide mode(F7)`.
+
+# Build it!
+
+To buy the bricks, you can visit [bricklink.com](https://bricklink.com) and [rebrickable.com](https://rebrickable.com).
+
+To import LDD LXF into bricklink or rebrickable can make your life easier:
+
+- [Import to Rebrickable](https://rebrickable.com/forum/index.php?/topic/2154-step-by-step-on-uploading-an-lxf-and-purchasing-the-parts-in-it/) ❤️
+- [Convert LXF to Bricklink XML](http://studs.me/convert-lxf-to-bricklink-xml)
+- [Add to Bricklink Wanted List](https://www.bricklink.com/help.asp?helpID=1).
