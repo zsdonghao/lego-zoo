@@ -18,6 +18,8 @@ To get the building guides and brick lists, you need to download the LDD (lego d
 
 After that, open LXF file in LDD, click `Tool box` --> `generate building guide(ctrl+M)`, and then `View` --> `building guide mode(F7)`.
 
+In building guide mode, you can download the instruction in html format, and open in browser. In the browser, you can further save the instruction into PDF.
+
 # Build it!
 
 To buy the bricks, you can visit [bricklink](https://bricklink.com) and [rebrickable](https://rebrickable.com).
