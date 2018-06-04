@@ -20,10 +20,14 @@ After that, open LXF file in LDD, click `Tool box` --> `generate building guide(
 
 # Build it!
 
-To buy the bricks, you can visit [bricklink.com](https://bricklink.com) and [rebrickable.com](https://rebrickable.com).
+To buy the bricks, you can visit [bricklink](https://bricklink.com) and [rebrickable](https://rebrickable.com).
 
 To import LDD LXF into bricklink or rebrickable can make your life easier:
 
 - [Import to Rebrickable](https://rebrickable.com/forum/index.php?/topic/2154-step-by-step-on-uploading-an-lxf-and-purchasing-the-parts-in-it/) ❤️
 - [Convert LXF to Bricklink XML](http://studs.me/convert-lxf-to-bricklink-xml)
 - [Add to Bricklink Wanted List](https://www.bricklink.com/help.asp?helpID=1).
+
+# Tips
+
+For more MOC, go to [rebrickable](https://rebrickable.com), search a MOC, download lxf or jump to [bricksafe.com](https://bricksafe.com) via the link. You can also click **Buy Parts** in  [rebrickable](https://rebrickable.com) MOC page, and jump to [bricklink](https://bricklink.com) for checkout.
